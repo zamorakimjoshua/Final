@@ -1,0 +1,11 @@
+C:\Users\Angelica\source\repos\ClassroomModel\bin\Debug\net8.0\ClassroomModel.deps.json
+C:\Users\Angelica\source\repos\ClassroomModel\bin\Debug\net8.0\ClassroomModel.dll
+C:\Users\Angelica\source\repos\ClassroomModel\bin\Debug\net8.0\ClassroomModel.pdb
+C:\Users\Angelica\source\repos\ClassroomModel\obj\Debug\net8.0\ClassroomModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\source\repos\ClassroomModel\obj\Debug\net8.0\ClassroomModel.AssemblyInfoInputs.cache
+C:\Users\Angelica\source\repos\ClassroomModel\obj\Debug\net8.0\ClassroomModel.AssemblyInfo.cs
+C:\Users\Angelica\source\repos\ClassroomModel\obj\Debug\net8.0\ClassroomModel.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\source\repos\ClassroomModel\obj\Debug\net8.0\ClassroomModel.dll
+C:\Users\Angelica\source\repos\ClassroomModel\obj\Debug\net8.0\refint\ClassroomModel.dll
+C:\Users\Angelica\source\repos\ClassroomModel\obj\Debug\net8.0\ClassroomModel.pdb
+C:\Users\Angelica\source\repos\ClassroomModel\obj\Debug\net8.0\ref\ClassroomModel.dll
