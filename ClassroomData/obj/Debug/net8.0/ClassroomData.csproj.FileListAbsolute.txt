@@ -1,0 +1,15 @@
+C:\Users\Angelica\source\repos\ClassroomData\bin\Debug\net8.0\ClassroomData.deps.json
+C:\Users\Angelica\source\repos\ClassroomData\bin\Debug\net8.0\ClassroomData.dll
+C:\Users\Angelica\source\repos\ClassroomData\bin\Debug\net8.0\ClassroomData.pdb
+C:\Users\Angelica\source\repos\ClassroomData\bin\Debug\net8.0\ClassroomModel.dll
+C:\Users\Angelica\source\repos\ClassroomData\bin\Debug\net8.0\ClassroomModel.pdb
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\ClassroomData.csproj.AssemblyReference.cache
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\ClassroomData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\ClassroomData.AssemblyInfoInputs.cache
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\ClassroomData.AssemblyInfo.cs
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\ClassroomData.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\Classroo.A46294C9.Up2Date
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\ClassroomData.dll
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\refint\ClassroomData.dll
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\ClassroomData.pdb
+C:\Users\Angelica\source\repos\ClassroomData\obj\Debug\net8.0\ref\ClassroomData.dll
